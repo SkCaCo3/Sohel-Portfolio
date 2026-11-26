@@ -52,3 +52,4 @@ document.querySelectorAll('.reveal').forEach(el => revealObserver.observe(el));
 
 // ===== Footer year =====
 document.getElementById('year').textContent = new Date().getFullYear();
+
